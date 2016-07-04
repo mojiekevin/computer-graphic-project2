@@ -1,7 +1,6 @@
-This project involves implementing ray tracing in computer graphic. Ray tracing is a simple 
-and powerful algorithm for rendering images. Within the accuracy of the scene and shading 
-models and with enough computing time, the images produced by a ray tracer can be physically 
-accurate and can appear indistinguishable from real images.
+This project involves implementing ray tracing in computer graphic. 
+
+assignment link: http://www.cs.cornell.edu/Courses/cs4620/2015fa/assignments/a2/a2ray1_code.html
 
 The images under the file 'Framework\data\scenes\ray1' are our test results.
 The xml file for cylinder named 'one-cylinder' is also in the file 'Framework\data\scenes\ray1'.
